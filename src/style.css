@@ -21,11 +21,12 @@
 	border: 1px solid #E1E7ED;
 	box-shadow: 0px 1px 8px rgba(61, 78, 97, 0.1);
 	border-radius: 4px;
-	font-weight: 900;
 	outline: none;
 	padding-left: 40px;
 	margin-bottom: 20px;
 	transition: box-shadow 0.8s;
+	font-weight: 900;
+	font-size: 16px;
 }
 .search::placeholder {
 	font-weight: 300;
@@ -40,7 +41,6 @@
 	background: url(/src/4.png) no-repeat 10px 50%, linear-gradient(180deg, #FFFFFF 0%, #F6F6F7 100%);
 	border: 1px solid #E1E7ED;
 	border-radius: 3px;
-	
 }
 
 .search_little {
@@ -49,17 +49,18 @@
 	background-position: 10px 50%;
 	width: 472px;
 	height: 42px;
-	font-weight: 900;
 	border: 1px solid #E1E7ED;
 	box-shadow: 0px 1px 8px rgba(61, 78, 97, 0.1);
 	border-radius: 4px;
 	outline: none;
 	padding-left: 40px;
 	transition: box-shadow 0.8s;
+	font-weight: 900;
+	font-size: 14px;
 }
 
 .search_little::placeholder {
-	font-weight: 400;
+	font-weight: 300;
 	font-size: 14px;
 }
 
@@ -71,6 +72,5 @@
 	background: url(/src/4.png) no-repeat 10px 50%, linear-gradient(180deg, #FFFFFF 0%, #F6F6F7 100%);
 	border: 1px solid #E1E7ED;
 	border-radius: 3px;
-	font-weight: 900;
-	
+		
 }
