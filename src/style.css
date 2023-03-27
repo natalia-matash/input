@@ -44,7 +44,7 @@
 }
 
 .search_little {
-  background: url(/src/littlezoom.png) no-repeat 10px 50%;
+  background-color: aquamarine;
   width: 472px;
   height: 42px;
   font-weight: 400;
